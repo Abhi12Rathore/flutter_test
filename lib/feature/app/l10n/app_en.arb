@@ -1,0 +1,36 @@
+{
+  "chr_connect": "CHR Connect",
+  "@chr_connect": {
+    "description": "The app's name."
+  },
+  "good_morning": "Good morning,",
+  "good_afternoon": "Good afternoon,",
+  "good_evening": "Good evening,",
+  "name_exclamation": "{name}!",
+  "@name_exclamation": {
+    "placeholders" : {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "show_notifications": "Show notifications",
+  "reminders": "Reminders",
+  "upcoming_appointments": "Upcoming appointments",
+  "view_all": "View all",
+  "home": "Home",
+  "appointments": "Appointments",
+  "inbox": "Inbox",
+  "billing": "Billing",
+  "unpaid": "Unpaid",
+  "today": "Today",
+  "confirmed": "Confirmed",
+  "more_resources": "More resources",
+  "faq": "FAQ",
+  "troubleshooting": "Troubleshooting",
+  "find_new_clinic": "Find new clinic",
+  "new_message": "New message",
+  "book_appointment": "Book appointment",
+  "empty_reminders_message": "You don't have any reminders yet",
+  "new_appointment": "New appointment"
+}

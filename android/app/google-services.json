@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "59694932332",
+    "project_id": "chr-connect-hp-draft",
+    "storage_bucket": "chr-connect-hp-draft.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:59694932332:android:61f74f3bc20c45c1931349",
+        "android_client_info": {
+          "package_name": "com.inputhealth.chrconnecthpdraft"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "59694932332-h93g7444fsvc64nghsps4f020ddtf418.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAq7e4IKUXPBdwC-hfQBS10hihjzfrQaEk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "59694932332-h93g7444fsvc64nghsps4f020ddtf418.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "59694932332-ds8go5cn43qqt7tlk452h3re03guljkj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.telus.chrConnect"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:59694932332:android:4fdf2d26f2ac1558931349",
+        "android_client_info": {
+          "package_name": "com.telus.chr_connect"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "59694932332-h93g7444fsvc64nghsps4f020ddtf418.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAq7e4IKUXPBdwC-hfQBS10hihjzfrQaEk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "59694932332-h93g7444fsvc64nghsps4f020ddtf418.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "59694932332-ds8go5cn43qqt7tlk452h3re03guljkj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.telus.chrConnect"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
